@@ -1,2 +1,0 @@
-tasm /zi %1
-tasm /zi module.asm
